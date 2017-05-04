@@ -1,0 +1,4 @@
+c:\users\pratiksha\documents\visual studio 2010\Projects\vs2010application\vs2010application\bin\vs2010application.dll
+c:\users\pratiksha\documents\visual studio 2010\Projects\vs2010application\vs2010application\bin\vs2010application.pdb
+c:\users\pratiksha\documents\visual studio 2010\Projects\vs2010application\vs2010application\obj\Debug\vs2010application.dll
+c:\users\pratiksha\documents\visual studio 2010\Projects\vs2010application\vs2010application\obj\Debug\vs2010application.pdb
